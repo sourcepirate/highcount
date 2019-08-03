@@ -5,7 +5,7 @@ A simple tool to calculate working hours based on labels.
 ## Usage
 
 ```
-./highcount --username blackreaper --password Breakthecode-1 nusbighero6/ipmlp 'July (Completed)'
+./highcount --username <uname> --password <pass> nusbighero6/ipmlp 'July (Completed)'
 ```
 
 ## Output
