@@ -1,0 +1,41 @@
+hash: 374d7804c28a2bf4b0a88d3d230a0ea739ed669061625f86ef780a7c3633f4c3
+updated: 2019-08-03T16:35:05.910276117+08:00
+imports:
+- name: github.com/golang/protobuf
+  version: 6c65a5562fc06764971b7c5d05c76c75e84bdbf7
+  subpackages:
+  - proto
+- name: github.com/google/go-querystring
+  version: 44c6ddd0a2342c386950e880b658017258da92fc
+  subpackages:
+  - query
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/spf13/cobra
+  version: f2b07da1e2c38d5f12845a4f607e2e1018cbb1f5
+  subpackages:
+  - cobra
+- name: github.com/spf13/pflag
+  version: 298182f68c66c05229eb03ac171abe6e309ee79a
+- name: github.com/xanzy/go-gitlab
+  version: ee3313ca5478c4786248d63dd75e4cd8e1fad2db
+- name: golang.org/x/net
+  version: 15845e8f865bdabdefb6e7da65b4d9e8de5e94ef
+  subpackages:
+  - context
+  - context/ctxhttp
+- name: golang.org/x/oauth2
+  version: 0f29369cfe4552d0e4bcddc57cc75f4d7e672a33
+  subpackages:
+  - internal
+- name: google.golang.org/appengine
+  version: fb139bde60fa77cede04f226b4d5a3cf68dcce27
+  subpackages:
+  - internal
+  - internal/base
+  - internal/datastore
+  - internal/log
+  - internal/remote_api
+  - internal/urlfetch
+  - urlfetch
+testImports: []
