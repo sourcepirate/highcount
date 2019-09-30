@@ -1,6 +1,6 @@
 ## Highcount
 
-A simple tool to calculate working hours based on labels. 
+A simple tool to calculate working hours based on labels for gitlab. 
 
 ## Usage
 
@@ -13,9 +13,9 @@ A simple tool to calculate working hours based on labels.
 ```
 
 sourcepirate has spent about n hours
-Chee Kit has spent about z hours
-Chen Weng Wei has spent about y hours
-Allen has spent about x hours
+XXX has spent about z hours
+YYY has spent about y hours
+ZZZ has spent about x hours
 
 ```
 
@@ -29,4 +29,4 @@ go build highcount.go
 
 ## Contribution
 
-Kindly welcomed.
+Kindly welcome.
